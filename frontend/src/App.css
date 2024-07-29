@@ -1,0 +1,87 @@
+.header{
+ margin-left: 25%;
+ margin-top: 5%;
+   background-color:rgb(189, 228, 189);
+  padding: 20px;
+  border-radius: 5px;
+  height: 450px;
+  width: 600px;
+ 
+}
+.header h1{
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+ 
+}
+
+.button{
+  background-color: gray;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 10px;
+ 
+}
+
+
+
+.input{
+  width: 80%;
+  border: 0in;
+  margin-right: 10px;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-color: rgb(219, 223, 228);
+  border-radius: 50px;
+
+}
+
+.edit{
+  border-radius: 10px;
+ padding: 3px; 
+ background-color: gray;
+  color: azure;
+  margin-top: 10px;
+   margin-left: 300px; 
+}
+
+.mark{
+  border-radius: 10px;
+  background-color:gray;
+  color: azure;
+  margin-left: 10px; 
+  margin-top: 10px;
+}
+
+.delete{
+  border-radius: 10px;
+  padding: 3px;
+  background-color:gray;
+  color: azure;
+   margin-left: 10px; 
+  margin-top: 10px;
+}
+.container{
+   box-shadow: 0 0 0px;
+  margin-top: 40px;
+  padding: 5px;
+  background-color:white;
+  border-radius: 10px; 
+  
+  
+}
+.save{
+  border-radius: 10px;
+  background-color: gray;
+  color: azure;
+   margin-left: 10px; 
+  margin-top: 10px;
+}
+.text{
+  margin-top: 5px;
+  margin-left: 15px;
+}
+.box{
+  margin-left: 20px;
+}
